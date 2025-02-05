@@ -1,3 +1,13 @@
+# Anarchic Beam Classic (Markdown Plugin)
+
+This is the Anarchic Beam Classic distribution.
+
+It is an attempt to revive the legacy Projector for IntelliJ IDEA.
+
+🚧 Work in progress.
+
+# Legacy Readme
+
 # projector-markdown-plugin
 [![JetBrains incubator project](https://jb.gg/badges/incubator.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![Tests status badge](https://github.com/JetBrains/projector-markdown-plugin/workflows/Tests/badge.svg)](https://github.com/JetBrains/projector-markdown-plugin/actions)
